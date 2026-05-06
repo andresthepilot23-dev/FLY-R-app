@@ -1,0 +1,14 @@
+{
+  "cliente": {
+    "version_code": 5,
+    "version_name": "V1.0.0",
+    "url": "https://github.com/andresthepilot23-dev/FLY-R-/releases/download/V1.0.0/app-cliente-release.apk",
+    "notas": "Actual"
+  },
+  "conductor": {
+    "version_code": 5,
+    "version_name": "1.0.0",
+    "url": "https://github.com/andresthepilot23-dev/FLY-R-/releases/download/1.0.0/app-conductor-release.apk",
+    "notas": "Actual"
+  }
+}
