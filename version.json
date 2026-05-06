@@ -1,9 +1,9 @@
 {
   "cliente": {
-    "version_code": 5,
-    "version_name": "V1.0.0",
-    "url": "https://github.com/andresthepilot23-dev/FLY-R-/releases/download/V1.0.0/app-cliente-release.apk",
-    "notas": "Actual"
+    "version_code": 6,
+    "version_name": "V1.0.1",
+    "url": "https://github.com/andresthepilot23-dev/FLY-R-/releases/download/V1.0.1/app-cliente-release.apk",
+    "notas": "Actualización V1.0.1"
   },
   "conductor": {
     "version_code": 5,
