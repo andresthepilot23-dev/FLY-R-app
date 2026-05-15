@@ -1,14 +1,14 @@
 {
   "cliente": {
-    "version_code": 8,
-    "version_name": "V1.0.4",
-    "url": "https://github.com/andresthepilot23-dev/FLY-R-/releases/download/V1.0.3/app-cliente-release.apk",
-    "notas": "Actualización errores al registrarse por favor descargar nueva version en la pagina web o comunicandose al numero whatsapp: 3187809723 o link 'https://fly-r-dc12f.web.app/'"
+    "version_code": 0,
+    "version_name": "",
+    "url": "",
+    "notas": ""
   },
   "conductor": {
-    "version_code": 7,
-    "version_name": "1.0.3",
-    "url": "https://github.com/andresthepilot23-dev/FLY-R-/releases/download/1.0.2/app-conductor-release.apk",
-    "notas": "Actualizacion errores general"
+    "version_code": 0,
+    "version_name": "",
+    "url": "",
+    "notas": ""
   }
 }
